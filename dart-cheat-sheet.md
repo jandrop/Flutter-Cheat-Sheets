@@ -168,7 +168,7 @@ Un mixin se define usando la palabra clave mixin en lugar de class. Los mixins p
 Para usar un mixin en una clase, usa la palabra clave with seguida del nombre del mixin.
 
 
-```
+```dart
 mixin Saludable {
   void mantenerseSaludable() {
     print('Realizar ejercicio y mantener una dieta balanceada');
